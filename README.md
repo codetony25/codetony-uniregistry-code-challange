@@ -1,7 +1,7 @@
-Codetony's Uniregistry code challange
+Codetony's code challange
 =====================
 
-### Run the Uniregistry code challange
+### Run the code challange
 
 ```
 npm install

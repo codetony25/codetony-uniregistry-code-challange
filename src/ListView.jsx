@@ -102,7 +102,7 @@ class ListView extends Component {
                   isDomainClicked={this.state.isDomainClicked}
                   handleDomainSaveChanges={this.handleDomainSaveChanges}
                 />
-              )
+              );
             }
           })()}
         </div>

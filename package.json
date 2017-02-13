@@ -1,7 +1,7 @@
 {
-  "name": "codetony-uniregistry-code-challange",
+  "name": "codetony-code-challange",
   "version": "1.0.0",
-  "description": "Code challange for Uniregistry",
+  "description": "Code challange",
   "scripts": {
     "start": "node server.js",
     "lint": "eslint src"
@@ -27,6 +27,7 @@
     "mobx-react-devtools": "^4.2.11",
     "react": "^15.1.0",
     "react-dom": "^15.1.0",
-    "react-router": "^4.0.0-beta.5"
+    "react-router": "^4.0.0-beta.5",
+    "underscore": "^1.8.3"
   }
 }
